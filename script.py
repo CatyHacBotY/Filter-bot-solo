@@ -1,9 +1,9 @@
 class Script(object):
 
-    START_MSG = """<b>Hello {} How are you🌹,
+    START_MSG = """<b>Hello {} ✨ Hi 🌹,
 
 I'm an advanced filter bot with many capabilities!
-Edit By @Yash_607
+✨ By @none_678
 
 See <i>/help</i> for commands and more details.</b>
 """
